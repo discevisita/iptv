@@ -97,16 +97,6 @@ http://yerelmedya.tv:1935/mercantv/bant1/chunklist.m3u8
 http://canli.tvden.com.tr/hls/live.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d584de30-a47d-4d88-a0bd-799768598b34.png" group-title="",blutv Aksiyon
-https://mn-nl.mncdn.com/blutv_aksiyon/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/47301dc8-54a0-4a96-a774-5cdb8db26f98.png" group-title="",blutv Komedi
-https://mn-nl.mncdn.com/blutv_komedi/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/62936635-7778-43aa-82f6-e6519da3a265.png" group-title="",blutv Özel Yapım
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live_720p2000000kbps/index.m3u8
-
-
-#EXTINF:1 Blutv Belgesel tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" group-title="",blutv Belgesel
-https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index_3.m3u8
 #EXTINF:-1 TRTBelgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 YABAN TV, tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg", Yaban Tv
