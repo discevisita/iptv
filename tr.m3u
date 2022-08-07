@@ -36,7 +36,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 360 TV, tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg", 360 
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 UÇANKUŞ TV, tvg-logo="http://3.bp.blogspot.com/-N0Ir1D0vMwk/XniqX_X_skI/AAAAAAAAYLA/hiSqrpVyPC8LuEqykEka7dql3IPcQkKXQCLcBGAsYHQ/s1600/utv.jpg", UçanKus TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 BIZIM EV TV, tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png", Bizimev Tv
@@ -66,7 +66,7 @@ https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1 HABER GLOBAL, tvg-logo="http://3.bp.blogspot.com/-FIpYo1vTdFE/Xk132ypN4VI/AAAAAAAAYDs/2ZqGm4u4rFQMlBh5vmIJVZKPzhS7oztpACLcBGAsYHQ/s1600/haberglobal.jpg", Haber Global
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 CNN Türk, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png", CNN Türk
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8 
 #EXTINF:-1 Bloomberg HT, tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg", BLOOMBERG HT
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
@@ -74,8 +74,7 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 KRT TV, tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg", KRT 
-https://mn-nl.mncdn.com/blutv_krt/live.m3u8
-#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
+https://krt.blutv.com/blutv_krt_live/live.m3u8#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
 https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
@@ -108,7 +107,7 @@ https://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:1 KoyTV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2f26c135-b00f-41ef-b21d-119ac1a8cb92.png", Köy TV
 https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
 #EXTINF:1 TarimTV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b999b70b-7621-43b0-921b-a145c4f03b7c.png", Tarım TV
-https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8 
 #EXTINF:1 ToprakTV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1b26c112-9a3a-41d2-b58d-8bde8233b6a2.png", Toprak TV
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 
