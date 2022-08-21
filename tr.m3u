@@ -77,7 +77,7 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
-https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
+http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:-1 ARTI TV, tvg-logo="https://r.resimlink.com/k5wm9MZ.png", ARTI TV
 
 #EXTINF:-1 CanTV, tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-url="" group-title="", CAN TV
