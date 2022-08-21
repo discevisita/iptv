@@ -16,8 +16,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 SHOWTURK, tvg-logo="https://i.hizliresim.com/t5qflxl.jpeg", SHOWTÜRK TV
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 STAR TV, tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg", STAR TV
-https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-#EXTINF:-1 EURO STAR, tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg", EuroStar TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8#EXTINF:-1 EURO STAR, tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg", EuroStar TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 Atv, tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV TV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
