@@ -152,7 +152,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 
 #EXTINF:-1 RT, tvg-logo="http://static.epg.best/ru/RTInternational.ru.png", RT
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 RT UK, tvg-logo="https://i.imgur.com/zdTA0ha.png", RT UK 
 
 #EXTINF:-1 CNNInternational, tvg-logo="https://i.imgur.com/2BXCg0x.jpg", CNN International Europe
