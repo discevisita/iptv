@@ -150,7 +150,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 PRESS TV, tvg-logo="https://i.imgur.com/TNQKahI.png", Press TV 
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-
 #EXTINF:-1 RT, tvg-logo="http://static.epg.best/ru/RTInternational.ru.png", RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 RT UK, tvg-logo="https://i.imgur.com/zdTA0ha.png", RT UK 
@@ -159,6 +158,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 CBSNews, tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png", CBS News 
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 Sky News, tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="", SKY NEWS
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 FoxNews, tvg-logo="http://static.epg.best/us/FoxNews.us.png", Fox News 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 FOXNewsNow, tvg-logo="https://i.imgur.com/hc5a1YP.png", FOX News Now
@@ -182,7 +183,6 @@ https://c.mjh.nz/101002210221/
 
 #EXTINF:-1 bbclifestyle, tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/1280px-BBC_Lifestyle2.svg.png",BBC Lifestyle
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
-
 
 
 #EXTINF:-1 BBC Food, tvg-logo="https://i.imgur.com/N3xiz4m.png", BBC Food
