@@ -41,8 +41,6 @@ https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 BIZIM EV TV, tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png", Bizimev Tv
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8 
-#EXTINF:1  Woman TV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png", Woman TV
-https://s01.vpis.io/wmtv/wmtv.m3u8
 
 
 #EXTINF:-1 TRT 1, tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg", TRT 1
