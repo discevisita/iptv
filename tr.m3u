@@ -143,7 +143,7 @@ https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/https://cdnuk001.broad
 #EXTINF:-1 DW English, tvg-logo="https://i.imgur.com/xnv0Pgm.jpg", DW English 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 France24, tvg-logo="https://i.imgur.com/61MSiq9.png", France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 AlJazeeraEnglish, tvg-logo="https://i.imgur.com/BB93NQP.png", Aljazeera English 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 PRESS TV, tvg-logo="https://i.imgur.com/TNQKahI.png", Press TV 
