@@ -62,7 +62,7 @@ https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 #EXTINF:-1 HABERTURK, tvg-logo="http://4.bp.blogspot.com/-izbxf31NDwQ/Xk139YTUY1I/AAAAAAAAYD0/td8hL3mJPmIhE3MFRs_pBSORX66Zy9IrACLcBGAsYHQ/s1600/haberturk.jpg", Habertürk
 https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
 #EXTINF:-1 HABER GLOBAL, tvg-logo="http://3.bp.blogspot.com/-FIpYo1vTdFE/Xk132ypN4VI/AAAAAAAAYDs/2ZqGm4u4rFQMlBh5vmIJVZKPzhS7oztpACLcBGAsYHQ/s1600/haberglobal.jpg", Haber Global
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+https://live.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 #EXTINF:-1 CNN Türk, tvg-logo="https://imgyukle.com/f/2022/10/23/n0Ojg8.jpg", CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8 
 #EXTINF:-1 Bloomberg HT, tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg", BLOOMBERG HT
