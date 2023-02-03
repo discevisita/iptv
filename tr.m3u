@@ -44,7 +44,7 @@ https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8
 
 
 #EXTINF:-1 TRT 1, tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg", TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://raw.githubusercontent.com/hayatiptv/iptv/master/EURO.m3u
 #EXTINF:-1 TRT 2, tvg-logo="http://3.bp.blogspot.com/-A3hoIQwC6p8/XpXMicQCq_I/AAAAAAAAYUE/YycJhKf-nfAFRLfh_fj65SVRtnb_c3jhwCLcBGAsYHQ/s1600/trt2.jpg", TRT 2 
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Turk, tvg-logo="https://i.imgur.com/zT6ruUV.png", TRT Türk
