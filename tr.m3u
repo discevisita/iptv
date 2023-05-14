@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 Atv, tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV TV
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
 #EXTINF:-1 ATV Avrupa, tvg-logo="https://r.resimlink.com/16NOa.png", ATV Tv Avrupa
-http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296360
+http://37.49.230.48:8080/GenIptvLast/NQfNDZ8f27uhJhMv/296360
 #EXTINF:-1 Tv8, tvg-logo="http://1.bp.blogspot.com/-s-iJMGwh60A/Xk17S3UJZlI/AAAAAAAAYGw/HNqwhjty1AgSWsFWnLtmmnOlPvAZj1C7ACLcBGAsYHQ/s1600/tv8.jpg", TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 TV 8,5, tvg-logo="http://1.bp.blogspot.com/-dkQ8Bj5p8TI/Xk17cYiKs8I/AAAAAAAAYG0/GqoXNkhopBY7zG_8sekMaBcQrcI7-loAgCLcBGAsYHQ/s1600/tv85.jpg", TV 8.5 HD
