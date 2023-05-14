@@ -137,7 +137,7 @@ https://59cba4d34b678.streamlock.net/canlitv/tv2020/chunklist_w947538594.m3u8
 #EXTINF:-1 TRT WORLD, tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 Euronews, tvg-logo="https://i.imgur.com/sBPVCYy.jpg", EuroNews English
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 Bbc World, tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png", BBC World News Europe
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 DW English, tvg-logo="https://i.imgur.com/xnv0Pgm.jpg", DW English 
