@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="🇹🇷TR: KANAL D FHD" tvg-logo="" tvg-id2="=" group-title="2️⃣ 🇹🇷TR: ULUSAL",🇹🇷TR: KANAL D FHD
+http://arisiktv.xyz:8080/Aleksander/4F89HwMADnh3/2898
+
 #EXTINF:-1 Investigation Discovery, tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png", Investigation Discovery 
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1 DMAX, tvg-logo="http://3.bp.blogspot.com/-v3on2BzICQM/WrY1D1WtlcI/AAAAAAAAV6U/pjcWH0uEPXcHfSDhM3RWk7epDGm_ViPzACLcBGAs/s1600/dmax.jpg", DMAX Türkiye
