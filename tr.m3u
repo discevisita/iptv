@@ -71,6 +71,9 @@ https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" ,SÖZCÜ TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
 #EXTINF:-1 KRT TV, tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg", KRT 
 https://krt.blutv.com/blutv_krt_live/live.m3u8#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
