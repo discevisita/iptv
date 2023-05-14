@@ -94,7 +94,7 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 Mercan Tv, tvg-logo="http://3.bp.blogspot.com/-b79VRT0gw4U/VqnO8koUQAI/AAAAAAAAPY4/wHNUC_gonN0/s1600/mercantv.jpg", Mercan Tv
-http://yerelmedya.tv:1935/mercantv/bant1/chunklist.m3u8
+
 #EXTINF:-1 TvDen logo="https://i.imgur.com/Or0vG1Y.png", TV DEN 
 http://canli.tvden.com.tr/hls/live.m3u8
 
