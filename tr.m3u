@@ -88,7 +88,7 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 YOL TV, tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg", Yol Tv
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 Cem TV, tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="", CEM TV
-http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
+
 #EXTINF:-1 Kanal Avrupa, tvg-logo="https://r.resimlink.com/pG1WxOfJ.png", KANAL AVRUPA
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
