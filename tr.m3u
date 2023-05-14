@@ -38,7 +38,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 360 TV, tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg", 360 
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 UÇANKUŞ TV, tvg-logo="http://3.bp.blogspot.com/-N0Ir1D0vMwk/XniqX_X_skI/AAAAAAAAYLA/hiSqrpVyPC8LuEqykEka7dql3IPcQkKXQCLcBGAsYHQ/s1600/utv.jpg", UçanKus TV
-https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
+
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 BIZIM EV TV, tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png", Bizimev Tv
