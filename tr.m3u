@@ -90,7 +90,7 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 Cem TV, tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png" group-title="", CEM TV
 
 #EXTINF:-1 Kanal Avrupa, tvg-logo="https://r.resimlink.com/pG1WxOfJ.png", KANAL AVRUPA
-http://51.15.2.151/hls/kanalavrupa.m3u8
+
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 Mercan Tv, tvg-logo="http://3.bp.blogspot.com/-b79VRT0gw4U/VqnO8koUQAI/AAAAAAAAPY4/wHNUC_gonN0/s1600/mercantv.jpg", Mercan Tv
