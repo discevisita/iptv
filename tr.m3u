@@ -14,7 +14,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 EURO D, tvg-logo="http://4.bp.blogspot.com/-Y25XNw4NJJc/Vpge3JqzuSI/AAAAAAAANr8/zmpKdBpbVXY/s1600/eurod.jpg", EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 SHOW TV, tvg-logo="http://2.bp.blogspot.com/-EwZbDF8eH5I/Xk15PlM24eI/AAAAAAAAYE4/szzDkqCqHCAAAVsae9gff9zhw3rspBxMACLcBGAsYHQ/s1600/show.jpg", SHOW TV
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 SHOWTURK, tvg-logo="https://i.hizliresim.com/t5qflxl.jpeg", SHOWTÜRK TV
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 STAR TV, tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg", STAR TV
