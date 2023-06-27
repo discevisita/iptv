@@ -158,7 +158,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 RT UK, tvg-logo="https://i.imgur.com/zdTA0ha.png", RT UK 
 
 #EXTINF:-1 CNNInternational, tvg-logo="https://i.imgur.com/2BXCg0x.jpg", CNN International Europe
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 CBSNews, tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png", CBS News 
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 Sky News, tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="", SKY NEWS
@@ -170,7 +170,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 NBC News Now, tvg-logo="https://i.imgur.com/LUhiYfG.jpg", NBC News Now 
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 ABC News Us, tvg-logo="https://imgyukle.com/f/2022/10/23/n0a8Js.png", ABC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 ABC News, tvg-logo="https://imgyukle.com/f/2022/10/23/n0aK1I.png", ABC News 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 Australia Channel, tvg-logo="https://r.resimlink.com/vHVUuBmh.png", Australia Channel 
