@@ -22,13 +22,13 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 EURO STAR, tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg", EuroStar TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 Atv, tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV TV
-http://king.57tv.online:8000/darkboxxx/A943CQ4hHbm7/22
+
 #EXTINF:-1 ATV Avrupa, tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/61372998d54bb2d61364dd891c78c990.png", ATV AVRUPA 
-http://king.57tv.online:8000/darkboxxx/A943CQ4hHbm7/544
+
 #EXTINF:-1 Tv8, tvg-logo="http://1.bp.blogspot.com/-s-iJMGwh60A/Xk17S3UJZlI/AAAAAAAAYGw/HNqwhjty1AgSWsFWnLtmmnOlPvAZj1C7ACLcBGAsYHQ/s1600/tv8.jpg", TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 TV 8,5, tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/efc2c50389886db316bc636196a23f2f.png", TV 8,5 
-http://king.57tv.online:8000/darkboxxx/A943CQ4hHbm7/47
+
 #EXTINF:-1 TV 4, tvg-logo="https://imgyukle.com/f/2022/10/23/n0N4w1.jpg", TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 BeyazTV, tvg-logo="https://r.resimlink.com/byFaB.png" tvg-url="" group-title="", Beyaz TV
@@ -77,13 +77,12 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 #EXTINF:-1 KRT TV, tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg", KRT 
-https://krt.blutv.com/blutv_krt_live/live.m3u8#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:-1 ARTI TV, tvg-logo="https://r.resimlink.com/k5wm9MZ.png", ARTI TV
-
-#EXTINF:1 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
+#EXTINF:1 ARTI TV, tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
 https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 
 
