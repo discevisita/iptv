@@ -83,6 +83,11 @@ https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 ARTI TV, tvg-logo="https://r.resimlink.com/k5wm9MZ.png", ARTI TV
 
+#EXTINF:1 tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
+https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
+
+
+
 #EXTINF:-1 CanTV, tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-url="" group-title="", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 YOL TV, tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg", Yol Tv
