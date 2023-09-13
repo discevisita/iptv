@@ -39,8 +39,8 @@ https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1024
 #EXTINF:-1 HABER GLOBAL, tvg-logo="http://3.bp.blogspot.com/-FIpYo1vTdFE/Xk132ypN4VI/AAAAAAAAYDs/2ZqGm4u4rFQMlBh5vmIJVZKPzhS7oztpACLcBGAsYHQ/s1600/haberglobal.jpg", Haber Global
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1021
-#EXTINF:-1 CNN Türk, tvg-logo="https://imgyukle.com/f/2022/10/23/n0Ojg8.jpg", CNN Türk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8 
+#EXTINF:-1 CNN Türk, tvg-logo="https://i.ibb.co/PrFRM2b/cnn-turk.png", CNN Türk
+http://5.135.233.246:4512/sabridost/EyA29EkUqN/40446 
 #EXTINF:-1 Bloomberg HT, tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg", BLOOMBERG HT
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
