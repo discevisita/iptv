@@ -44,7 +44,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 Bloomberg HT, tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg", BLOOMBERG HT
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1279
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" ,SÖZCÜ TV
