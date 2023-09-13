@@ -58,7 +58,7 @@ http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/53245
 #EXTINF:1 ARTI TV, tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
 https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 #EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
-https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 CanTV, tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-url="" group-title="", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 YOL TV, tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg", Yol Tv
