@@ -8,7 +8,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 SHOW TV, tvg-logo="http://2.bp.blogspot.com/-EwZbDF8eH5I/Xk15PlM24eI/AAAAAAAAYE4/szzDkqCqHCAAAVsae9gff9zhw3rspBxMACLcBGAsYHQ/s1600/show.jpg", SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 SHOWTURK, tvg-logo="https://i.hizliresim.com/t5qflxl.jpeg", SHOWTÜRK TV
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1180#EXTINF:-1 STAR TV, tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg", STAR TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1180
+#EXTINF:-1 STAR TV, tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg", STAR TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 EURO STAR, tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg", EuroStar TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
@@ -17,13 +18,12 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 BeyazTV, tvg-logo="https://r.resimlink.com/byFaB.png" tvg-url="" group-title="", Beyaz TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8 
 
-
 #EXTINF:-1 Atv, tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV TV
-
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1197
 #EXTINF:-1 ATV Avrupa, tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/61372998d54bb2d61364dd891c78c990.png", ATV AVRUPA 
-
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1196
 #EXTINF:-1 TV 8,5, tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/efc2c50389886db316bc636196a23f2f.png", TV 8,5 
-
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1182
 #EXTINF:-1 TRT 1, tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg", TRT 1
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 TRT 2, tvg-logo="http://3.bp.blogspot.com/-A3hoIQwC6p8/XpXMicQCq_I/AAAAAAAAYUE/YycJhKf-nfAFRLfh_fj65SVRtnb_c3jhwCLcBGAsYHQ/s1600/trt2.jpg", TRT 2 
