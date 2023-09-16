@@ -28,14 +28,14 @@ http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1202
 
 #EXTINF:-1 TRT 1, tvg-logo="https://r.resimlink.com/3Ibpz7gAO9.png", TRT 1
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-#EXTINF:-1 TRT 2, tvg-logo="http://3.bp.blogspot.com/-A3hoIQwC6p8/XpXMicQCq_I/AAAAAAAAYUE/YycJhKf-nfAFRLfh_fj65SVRtnb_c3jhwCLcBGAsYHQ/s1600/trt2.jpg", TRT 2 
+#EXTINF:-1 TRT 2, tvg-logo="https://r.resimlink.com/HCrtlE2k3Q.png", TRT 2 
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Turk, tvg-logo="https://i.imgur.com/zT6ruUV.png", TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="" group-title="", TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Avaz, tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-url="" group-title="", TRT Avaz 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="" group-title="", TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 NTV, tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png", NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 HABERTURK, tvg-logo="http://4.bp.blogspot.com/-izbxf31NDwQ/Xk139YTUY1I/AAAAAAAAYD0/td8hL3mJPmIhE3MFRs_pBSORX66Zy9IrACLcBGAsYHQ/s1600/haberturk.jpg", Habertürk
@@ -46,7 +46,7 @@ http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1021
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 Bloomberg HT, tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg", BLOOMBERG HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="TRH- EKOTURK HD+" tvg-logo="http://mdstream.net:8080/images/afa638f45f93c71e8d26ceeee62478a6.png" tvg-id2="" group-title="🇹🇷 [01] TR- HABER",TRH- EKOTURK HD+
+#EXTINF:-1 EKPTÜRK, tvg-logo="https://r.resimlink.com/fBxdWkAh4.jpeg" EKOTURK 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/10322
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1279
