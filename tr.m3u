@@ -88,10 +88,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 TRTBelgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 YABAN TV, tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg", Yaban Tv
+http://138.201.199.105:8000/rocky1971_1/5EX5n7nze8t7/891
 
 #EXTINF:1 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", Agro TV 
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
-#EXTINF:1 Ciftci TV, tvg-logo="https://imgyukle.com/f/2022/10/23/n0jRRj.jpg", Çiftçi TV
+#EXTINF:1 Ciftci TV, tvg-logo="https://r.resimlink.com/SlqAH.jpeg", Çiftçi TV
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:1 KoyTV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2f26c135-b00f-41ef-b21d-119ac1a8cb92.png", Köy TV
 
