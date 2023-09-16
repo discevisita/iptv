@@ -77,7 +77,7 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1166
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 BIZIM EV TV, tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png", Bizimev Tv
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8 
+http://138.201.199.105:8000/rocky1971_1/5EX5n7nze8t7/2728
 #EXTINF:-1 TEVE 2, tvg-logo="http://4.bp.blogspot.com/-V3yzVw-1ylw/Xk17K1hNGoI/AAAAAAAAYGo/bS99KITAbnYsmqnAuvMnDxoiim4yP9pZQCLcBGAsYHQ/s1600/tv2.jpg", TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 TV 4, tvg-logo="https://imgyukle.com/f/2022/10/23/n0N4w1.jpg", TV4
