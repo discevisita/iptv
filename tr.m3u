@@ -50,6 +50,9 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 http://138.201.199.105:8000/rocky1971_1/5EX5n7nze8t7/34160
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1279
+#EXTINF:-1 Cadde TV, tvg-logo="http://mdstream.net:8080/images/808b1d9d904bdf95630b8910f5c4ead1.jpg", Cadde TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/83105
+
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" ,SÖZCÜ TV
