@@ -23,7 +23,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8 
 #EXTINF:-1 TV 8.5, tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/efc2c50389886db316bc636196a23f2f.png", TV 8.5 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1182
-#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR- TRT 4K" tvg-logo="http://mdstream.net:8080/images/4fd98a2df6fae4b8505f9ec6ad2e72a1.png" tvg-id2="" group-title="🇹🇷 [01] TR- ULUSAL",TR- TRT 4K
+#EXTINF:-1 TRT 4K, tvg-logo="http://mdstream.net:8080/images/4fd98a2df6fae4b8505f9ec6ad2e72a1.png", TRT 4K
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1202
 
 #EXTINF:-1 TRT 1, tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg", TRT 1
