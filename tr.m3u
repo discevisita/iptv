@@ -76,7 +76,7 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 YOL TV, tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg", Yol Tv
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1605
 https://stream.yol.tv:9443/medialive/yol.m3u8
-#EXTINF:-1 CEM TV tvg-logo="https://r.resimlink.com/fgW-U2Ch_Xsb.jpeg", CEM TV
+#EXTINF:-1 CEM TV, tvg-logo="https://r.resimlink.com/fgW-U2Ch_Xsb.jpeg", CEM TV
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1173
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
