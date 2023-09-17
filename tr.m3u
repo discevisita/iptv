@@ -14,6 +14,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 Tv8, tvg-logo="http://1.bp.blogspot.com/-s-iJMGwh60A/Xk17S3UJZlI/AAAAAAAAYGw/HNqwhjty1AgSWsFWnLtmmnOlPvAZj1C7ACLcBGAsYHQ/s1600/tv8.jpg", TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 BeyazTV, tvg-logo="https://r.resimlink.com/byFaB.png" tvg-url="" group-title="", Beyaz TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1172
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8 
 #EXTINF:-1 TV 8.5, tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/efc2c50389886db316bc636196a23f2f.png", TV 8.5 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1182
