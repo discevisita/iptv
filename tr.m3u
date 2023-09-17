@@ -51,14 +51,14 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/10322
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1279
-#EXTINF:-1 Cadde TV, tvg-logo="http://mdstream.net:8080/images/808b1d9d904bdf95630b8910f5c4ead1.jpg", Cadde TV
-
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1019
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" ,SÖZCÜ TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/83104
 https://ythls.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 KRT TV, tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg", KRT 
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1020
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1018
@@ -66,13 +66,18 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 FLASH TV, tvg-logo="https://m.yilmaztv.cc/logo4/flash-tv.png", FLASH TV
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/53245
 #EXTINF:1 ARTI TV, tvg-logo="https://i.ibb.co/y04nCSJ/artii.png",ARTI TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1017
 https://ythls.onrender.com/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 #EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1146
 #EXTINF:-1 CanTV, tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-url="" group-title="", CAN TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1174
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 YOL TV, tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg", Yol Tv
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1605
 https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:-1 CEM TV tvg-logo="http://mdstream.net:8080/images/d1dee9c7402b7fdf5ca8cae785dafb7e.png", CEM TV
+http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1173
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
