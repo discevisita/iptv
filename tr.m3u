@@ -35,7 +35,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Avaz, tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-url="" group-title="", TRT Avaz 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="" group-title="", TRT Haber
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1026
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 NTV, tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png", NTV
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1025
