@@ -114,6 +114,11 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 SKY NEWS, tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
+#EXTINF:-1 GB NEWS, tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 TALK TV, tvg-logo="https://i.ibb.co/XWNXpVg/talk.png",TALK NEWS
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 #EXTINF:-1 DW English, tvg-logo="https://i.imgur.com/xnv0Pgm.jpg", DW English 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 France24, tvg-logo="https://i.imgur.com/61MSiq9.png", France 24 English
