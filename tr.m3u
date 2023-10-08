@@ -54,12 +54,10 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/53245
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1146
-#EXTINF:-1 Yol TV, tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png", YOL TV
-https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
-#EXTINF:0 Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
+https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
+#EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
@@ -86,7 +84,10 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 Köy Tv tvg-logo="https://r.resimlink.com/vSMeTWG-Cb.jpeg", KOY TV
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1239
 
-
+#EXTINF:-1, BRT 1, tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BRT 1 
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1, BRT 2, tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BRT 2 
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 #EXTINF:1 BRT 1, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/beda28ac-c11e-47ad-bfc9-0b0d05c537f5.png", BRT 1
 http://138.201.199.105:8000/rocky1971_1/5EX5n7nze8t7/34116
 #EXTINF:1 BRT 2 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/096c6c21-28ac-442d-bf07-a56b90a8e873.png", BRT 2
