@@ -72,8 +72,6 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 YABAN TV, tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg", Yaban Tv
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1231
 
 #EXTINF:1 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", Agro TV 
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
@@ -84,14 +82,10 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 Köy Tv tvg-logo="https://r.resimlink.com/vSMeTWG-Cb.jpeg", KOY TV
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1239
 
-#EXTINF:-1, BRT 1, tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BRT 1 
+#EXTINF:-1, BRT 1, tvg-logo="https://r.resimlink.com/aKcShsx8r.png",BRT 1 
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1, BRT 2, tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BRT 2 
+#EXTINF:-1, BRT 2, tvg-logo="https://r.resimlink.com/G9MHcsu.jpeg",BRT 2 
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
-#EXTINF:1 BRT 1, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/beda28ac-c11e-47ad-bfc9-0b0d05c537f5.png", BRT 1
-http://138.201.199.105:8000/rocky1971_1/5EX5n7nze8t7/34116
-#EXTINF:1 BRT 2 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/096c6c21-28ac-442d-bf07-a56b90a8e873.png", BRT 2
-http://5.135.233.246:4512/sabridost/EyA29EkUqN/66856
 #EXTINF:1 AdaTV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/85558d83-bcb8-49e6-80da-697c3a8d4411.png", Ada TV
 http://138.201.199.105:8000/rocky1971_1/5EX5n7nze8t7/34128
 #EXTINF:1 KibrisGencTV, tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb9bbecb-5c4c-4570-bf1b-97907de811ac.png", Genç TV
