@@ -150,7 +150,7 @@ https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 NBC News Now, tvg-logo="https://i.imgur.com/LUhiYfG.jpg", NBC News Now 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-#EXTINF:0 NBC NEWS, tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+#EXTINF:-1 NBC NEWS, tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
 #EXTINF:-1 ABC News Us, tvg-logo="https://imgyukle.com/f/2022/10/23/n0a8Js.png", ABC News
