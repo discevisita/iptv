@@ -350,14 +350,15 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/60412
 #EXTINF:-1 One Terra, tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/95/DEBA15000227H_20210609T004745.png", One Terra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
-#EXTINF:1 DeluxeMusic,tvg-logo="https://i.imgur.com/Bu7ZlYQ.png",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:1 SchlagerDeluxe, tvg-logo="https://i.imgur.com/xZ1z4Yj.png",Schlager Deluxe
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 #EXTINF:-1 Vevo Pop, tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/63/DEBA39000012B_20211013T011756.png", Vevo Pop
 
 #EXTINF:-1 Vevo Schlager Pop, tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/53/DEBA39000024Y_20211013T011821.png", Vevo Schlager Pop
 
+#EXTINF:-1 DeluxeMusic,tvg-logo="https://i.imgur.com/Bu7ZlYQ.png",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 SchlagerDeluxe, tvg-logo="https://i.imgur.com/xZ1z4Yj.png",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 DELUXE MUSIC English, tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png", DELUXE MUSIC English 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u
 #EXTINF:-1 DELUXE MUSIC Flashback, tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png", DELUXE MUSIC Flashback 
@@ -372,6 +373,4 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 XITE, tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/DEBA2200007V6_20201006T091036.png", XITE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D
-#EXTINF:-1 GoldStar TV, tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/DEAK0500445A_20200923T100523.png", GoldStar TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
