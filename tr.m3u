@@ -146,10 +146,10 @@ https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/
 #EXTINF:-1 FoxNews, tvg-logo="http://static.epg.best/us/FoxNews.us.png", Fox News 
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
 #EXTINF:-1 FOXNewsNow, tvg-logo="https://i.imgur.com/hc5a1YP.png", FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 NBC News Now, tvg-logo="https://i.imgur.com/LUhiYfG.jpg", NBC News Now 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 
 #EXTINF:-1 ABC News Us, tvg-logo="https://imgyukle.com/f/2022/10/23/n0a8Js.png", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
