@@ -48,7 +48,7 @@ https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" ,SÖZCÜ TV
-https://ythls.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/szctv/szctv.m3u8
 #EXTINF:-1 KRT TV, tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg", KRT 
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
