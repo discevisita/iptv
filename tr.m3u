@@ -76,7 +76,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 036 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", 036 Agro TV 
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
 #EXTINF:1 037 Ciftci TV, tvg-logo="https://r.resimlink.com/SlqAH.jpeg", 037 Çiftçi TV
-http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:1 038 TarimTV, tvg-logo="https://r.resimlink.com/OEFPg.png", 038 Tarım TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8 
 #EXTINF:-1 039 Köy Tv tvg-logo="https://r.resimlink.com/vSMeTWG-Cb.jpeg", 039 KOY TV
