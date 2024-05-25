@@ -72,9 +72,11 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 TLC, tvg-logo="https://r.resimlink.com/Bh3NX.png", TLC Türkiye
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 Yaban.tr tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="",Yaban TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:1 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", Agro TV 
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
 #EXTINF:1 Ciftci TV, tvg-logo="https://r.resimlink.com/SlqAH.jpeg", Çiftçi TV
@@ -82,7 +84,9 @@ http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:1 TarimTV, tvg-logo="https://r.resimlink.com/OEFPg.png", Tarım TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8 
 #EXTINF:-1 Köy Tv tvg-logo="https://r.resimlink.com/vSMeTWG-Cb.jpeg", KOY TV
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1239
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+#EXTINF:-1 Toprak Tv tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="",Toprak TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 
 #EXTINF:-1, BRT 1, tvg-logo="https://r.resimlink.com/aKcShsx8r.png", BRT 1 
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
