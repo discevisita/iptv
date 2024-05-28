@@ -116,7 +116,8 @@ http://stream.tvcdn.net/kibris/torba-tv.m3u8
 #EXTINF:-1 TRT WORLD, tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 Euronews, tvg-logo="https://i.imgur.com/sBPVCYy.jpg", EuroNews English
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8#EXTINF:-1 BBC NEWS, tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png", BBC NEWS
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 BBC NEWS, tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png", BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 SKY NEWS, tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png", SKY NEWS
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
