@@ -19,6 +19,7 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 360 TV, tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg", 360 
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
 #EXTINF:-1 TRT 4K, tvg-logo="https://r.resimlink.com/sdlqm5o.png", TRT 4K
 
 #EXTINF:-1 TRT 1, tvg-logo="https://r.resimlink.com/3Ibpz7gAO9.png",TRT 1
@@ -29,6 +30,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Avaz, tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-url="" group-title="", TRT Avaz 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 016 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="" group-title="", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 NTV, tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png", NTV
@@ -64,15 +66,12 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-
-
 #EXTINF:-1 Investigation Discovery, tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png", Investigation Discovery 
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1 DMAX, tvg-logo="http://3.bp.blogspot.com/-v3on2BzICQM/WrY1D1WtlcI/AAAAAAAAV6U/pjcWH0uEPXcHfSDhM3RWk7epDGm_ViPzACLcBGAs/s1600/dmax.jpg", DMAX Türkiye
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 TLC, tvg-logo="https://r.resimlink.com/Bh3NX.png", TLC Türkiye
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
 #EXTINF:-1 Yaban.tr tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
@@ -94,22 +93,21 @@ https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1 AdaTV  tvg-logo="http://assets.tvcdn.net/82d236a1-6b78-4929-90dd-489edd6c4240.png" group-title="",Kıbrıs Ada TV
 http://stream.tvcdn.net/kibris/kibris-ada-tv.m3u8
-
-#EXTINF:-1 tvg-id="KanalSim.cy" tvg-logo="http://assets.tvcdn.net/ad763e2a-457e-41ee-9c1e-ed498aefbb88.png" group-title="",Kanal Sim
+#EXTINF:-1 KanalSim tvg-logo="http://assets.tvcdn.net/ad763e2a-457e-41ee-9c1e-ed498aefbb88.png" group-title="", Kanal Sim
 http://stream.tvcdn.net/kibris/kanal-sim.m3u8
-#EXTINF:-1 tvg-id="KibrisGencTV.cy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="",Kıbrıs Genç TV
+#EXTINF:-1 KibrisGencTV tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="", Kıbrıs Genç TV
 http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
-#EXTINF:-1 tvg-id="KibrisKanalT.cy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="",Kıbrıs Kanal T
+#EXTINF:-1 KibrisKanalT tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="",Kıbrıs Kanal T
 http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
-#EXTINF:-1 tvg-id="KibrisTV.cy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="",Kıbrıs TV
+#EXTINF:-1 KibrisTV tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="",Kıbrıs TV
 http://stream.tvcdn.net/kibris/kibris-tv.m3u8
-#EXTINF:-1 tvg-id="TV2020.cy" tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="",TV 2020
+#EXTINF:-1 TV2020 tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="",TV 2020
 http://stream.tvcdn.net/kibris/tv-2020.m3u8
-#EXTINF:-1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="",Güneş TV
+#EXTINF:-1 TVGunes tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="",Güneş TV
 http://stream.tvcdn.net/kibris/gunes-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="",Kuzey Kıbrıs TV
+#EXTINF:-1  Kuzey Kıbrıs TV tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="",Kuzey Kıbrıs TV
 http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="",Torba TV
+#EXTINF:-1 Torba TV tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="",Torba TV
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
 
