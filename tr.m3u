@@ -103,8 +103,6 @@ http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
 http://stream.tvcdn.net/kibris/kibris-tv.m3u8
 #EXTINF:-1 TV2020 tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="",TV 2020
 http://stream.tvcdn.net/kibris/tv-2020.m3u8
-#EXTINF:-1 TVGunes tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="",Güneş TV
-http://stream.tvcdn.net/kibris/gunes-tv.m3u8
 #EXTINF:-1  Kuzey Kıbrıs TV tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="",Kuzey Kıbrıs TV
 http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
 #EXTINF:-1 Torba TV tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="",Torba TV
