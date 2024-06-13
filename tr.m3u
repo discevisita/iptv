@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml
 
 #EXTINF:-1 FOX TV, tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png", FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
