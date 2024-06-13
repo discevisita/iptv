@@ -65,7 +65,7 @@ https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1, Yol Tv, tvg-logo="", YOL TV
-https://stream.yol.tv:9443/medialive/yol.m3u8
+http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
