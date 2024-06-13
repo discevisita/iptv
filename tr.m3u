@@ -12,11 +12,11 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 Tv8, tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 BeyazTV, tvg-logo="https://r.resimlink.com/byFaB.png" tvg-url="" group-title="", Beyaz TV
+#EXTINF:-1 BeyazTV, tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png", Beyaz TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8 
 #EXTINF:-1 TV 4, tvg-logo="https://r.resimlink.com/BC83uhtH.png", TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 360 TV, tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg", 360 
+#EXTINF:-1 360 TV, tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png", 360 
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 TRT 4K, tvg-logo="https://r.resimlink.com/sdlqm5o.png", TRT 4K
@@ -27,26 +27,26 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Turk, tvg-logo="https://i.imgur.com/zT6ruUV.png", TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Avaz, tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-url="" group-title="", TRT Avaz 
+#EXTINF:-1 TRT Avaz, tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-url="", TRT Avaz 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 016 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="" group-title="", TRT Haber
+#EXTINF:-1 016 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 NTV, tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png", NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 HABERTURK, tvg-logo="http://4.bp.blogspot.com/-izbxf31NDwQ/Xk139YTUY1I/AAAAAAAAYD0/td8hL3mJPmIhE3MFRs_pBSORX66Zy9IrACLcBGAsYHQ/s1600/haberturk.jpg", Habertürk
+#EXTINF:-1 HABERTURK, tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png", Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 HABER GLOBAL, tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png", Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 CNN Türk, tvg-logo="https://i.ibb.co/PrFRM2b/cnn-turk.png", CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 Bloomberg HT, tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg", BLOOMBERG HT
+#EXTINF:-1 Bloomberg HT, tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png", BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E 
 https://new.cache-stream.workers.dev/channel/UCaO-M1dXacMwtyg0Pvovk4w/live.m3u8
 #EXTINF:-1 EKOTURK, tvg-logo="https://r.resimlink.com/fBxdWkAh4.jpeg", EKOTURK 
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
-#EXTINF:-1 Finans Türk tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="", Finans Türk
+#EXTINF:-1 Finans Türk tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png", Finans Türk
 http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
 #EXTINF:-1 TV 100,  tvg-logo="https://r.resimlink.com/rvTHSfOZ.png", TV 100 
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
@@ -54,13 +54,13 @@ https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", SÖZCÜ TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
-#EXTINF:-1 KRT TV, tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg", KRT 
+#EXTINF:-1 KRT TV, tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png", KRT 
 https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1 TELE 1, tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg", TELE 1 HD
+#EXTINF:-1 TELE 1, tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png", TELE 1 HD
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:-1 KANAL B, tvg-logo="http://4.bp.blogspot.com/-062Fckkd9cg/Xk14Yq3jenI/AAAAAAAAYEI/iVcyu7_piZoB0uaAC9fwzIPOcMKL5B15gCLcBGAsYHQ/s1600/kanalb.jpg", Kanal B
+#EXTINF:-1 KANAL B, tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png", Kanal B
 https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
