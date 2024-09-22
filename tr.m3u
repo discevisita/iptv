@@ -70,7 +70,7 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 Investigation Discovery, tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png", Investigation Discovery 
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+
 #EXTINF:-1 DMAX, tvg-logo="http://3.bp.blogspot.com/-v3on2BzICQM/WrY1D1WtlcI/AAAAAAAAV6U/pjcWH0uEPXcHfSDhM3RWk7epDGm_ViPzACLcBGAs/s1600/dmax.jpg", DMAX Türkiye
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 TLC, tvg-logo="https://r.resimlink.com/Bh3NX.png", TLC Türkiye
