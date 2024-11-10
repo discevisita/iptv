@@ -39,7 +39,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 HABER GLOBAL, tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png", Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 CNN Türk, tvg-logo="https://i.ibb.co/PrFRM2b/cnn-turk.png", CNN Türk
-https://deathlesstg.serv00.net/Youtube-Live/index.php?id=X_EWYemclKA&m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 Bloomberg HT, tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png", BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 CNBC-E, tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E 
