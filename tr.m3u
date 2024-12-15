@@ -134,6 +134,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734267624/ei/iH5eZ6boAcjJi9oPh6PsgQc/ip/172.71.164.21/id/Ap-UM1O9RBU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUIxVs7E1qJd3kZyPyI5WeDw1xudK7sCY8cYaQ3Nrkr-QXbsD8NmiQ0xaxyE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKAZHTGLiK9ncmBuK1jJysS7lV_voXlKLNjRD1u0hVgDAiEAzKANGRS3QinNYfcebI4ApOzWTrg90rfD8K06QbUu908%3D/file/index.m3u8
 #EXTINF:-1 AlJazeeraEnglish, tvg-logo="https://i.imgur.com/BB93NQP.png", Aljazeera English 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 i24 NEWS EN, tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS EN
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 PRESS TV, tvg-logo="https://i.imgur.com/TNQKahI.png", Press TV 
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:0 REUTERS TV, tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
