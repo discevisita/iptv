@@ -165,7 +165,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 
 #EXTINF:-1 NHKWorldJapan, tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:0 CGTN NEWS, tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
+#EXTINF:-1 CGTN NEWS, tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 #EXTINF:-1 bbclifestyle, tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/1280px-BBC_Lifestyle2.svg.png",BBC Lifestyle
