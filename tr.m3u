@@ -13,7 +13,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 Tv8, tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 BeyazTV, tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png", Beyaz TV
-https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
 #EXTINF:-1 TV 4, tvg-logo="https://r.resimlink.com/BC83uhtH.png", TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 360 TV, tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png", 360 
