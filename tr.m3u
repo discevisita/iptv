@@ -61,11 +61,11 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 #EXTINF:-1 KANAL B, tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png", Kanal B
-https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
+
 #EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 Yol Tv, tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png", YOL TV
-http://stream.yol.tv:9485/medialive/yol.m3u8
+
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
@@ -76,7 +76,7 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 TLC, tvg-logo="https://r.resimlink.com/Bh3NX.png", TLC Türkiye
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 Yaban.tr tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="",Yaban TV
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+
 #EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", Agro TV 
@@ -109,7 +109,7 @@ http://stream.tvcdn.net/kibris/tv-2020.m3u8
 #EXTINF:-1  Kuzey Kıbrıs TV tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="",Kuzey Kıbrıs TV
 http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
 #EXTINF:-1 Torba TV tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="",Torba TV
-http://stream.tvcdn.net/kibris/torba-tv.m3u8
+
 
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="",BBC One
 http://92.114.85.81:8000/play/a001/index.m3u8
