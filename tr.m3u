@@ -111,7 +111,10 @@ http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
 #EXTINF:-1 Torba TV tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="",Torba TV
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
-
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="",BBC One
+http://92.114.85.81:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" tvg-id="BBCTwo.uk" group-title="",BBC Two
+http://92.114.85.81:8000/play/a011/index.m3u8
 #EXTINF:-1 TRT WORLD, tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg", TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 EuroNews English, tvg-logo="https://i.ibb.co/R4xVMYc/enews.png", EuroNews English
