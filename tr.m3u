@@ -155,9 +155,9 @@ https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 NBC NEWS, tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC News Now
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
-#EXTINF:-1 ABC NEWS, tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
+#EXTINF:-1 ABC NEWS, tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 ABC NEWS AUSTRALIA, tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC NEWS AUSTRALIA
+#EXTINF:-1 ABC NEWS AUSTRALIA, tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 NHKWorldJapan, tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK World Japan
