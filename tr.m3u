@@ -159,7 +159,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 ABC NEWS AUSTRALIA, tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 ABC AUSTRALIA, tvg-logo="<blockquote class="imgur-embed-pub" lang="en" data-id="Ekjb7w8" data-context="false" ><a href="//imgur.com/Ekjb7w8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>",ABC Australia
+#EXTINF:-1 ABC AUSTRALIA, tvg-logo="",ABC Australia
 https://c.mjh.nz/abc-nt.m3u8
 
 #EXTINF:-1 NHKWorldJapan, tvg-logo="https://i.imgur.com/SQISXoD.jpg", NHK World Japan
