@@ -150,12 +150,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 CNBC NEWS, tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
 https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 #EXTINF:0 CBS NEWS, tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
-https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8#EXTINF:-1 FoxNews, tvg-logo="http://static.epg.best/us/FoxNews.us.png", Fox News 
+https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 FoxNews, tvg-logo="http://static.epg.best/us/FoxNews.us.png", Fox News 
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 FOXNewsNow, tvg-logo="https://i.ibb.co/hdBrzcc/fox.png", FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 NBC News Now, tvg-logo="https://i.imgur.com/LUhiYfG.jpg", NBC News Now 
-https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 #EXTINF:-1 NBC NEWS, tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 #EXTINF:-1 ABC NEWS, tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
