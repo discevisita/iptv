@@ -59,7 +59,7 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png", TELE 1 HD
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 #EXTINF:-1 KANAL B, tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png", Kanal B
 https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
