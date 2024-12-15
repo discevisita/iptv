@@ -4,7 +4,7 @@
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 KANAL D, tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da806", KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 ATV, tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV 
+#EXTINF:-1 ATV, tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", Atv
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #EXTINF:-1 SHOW TV, tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png", SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
