@@ -152,7 +152,7 @@ https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 #EXTINF:0 CBS NEWS, tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8#EXTINF:-1 FoxNews, tvg-logo="http://static.epg.best/us/FoxNews.us.png", Fox News 
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 FOXNewsNow, tvg-logo="https://i.imgur.com/hc5a1YP.png", FOX News Now
+#EXTINF:-1 FOXNewsNow, tvg-logo="https://i.ibb.co/hdBrzcc/fox.png", FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 NBC News Now, tvg-logo="https://i.imgur.com/LUhiYfG.jpg", NBC News Now 
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
