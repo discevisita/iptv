@@ -17,9 +17,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 360 TV, tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png", 360 
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 TRT 4K, tvg-logo="https://r.resimlink.com/sdlqm5o.png", TRT 4K
-
 #EXTINF:-1 TRT 1, tvg-logo="https://r.resimlink.com/3Ibpz7gAO9.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT 2, tvg-logo="https://r.resimlink.com/HCrtlE2k3Q.png",TRT 2 
