@@ -59,8 +59,6 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 Yol Tv, tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png", YOL TV
-https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 #EXTINF:-1 MC TV, tvg-logo="https://r.resimlink.com/K40U.png", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 DMAX, tvg-logo="http://3.bp.blogspot.com/-v3on2BzICQM/WrY1D1WtlcI/AAAAAAAAV6U/pjcWH0uEPXcHfSDhM3RWk7epDGm_ViPzACLcBGAs/s1600/dmax.jpg", DMAX Türkiye
@@ -70,7 +68,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", Agro TV 
-https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 #EXTINF:1 Ciftci TV, tvg-logo="https://r.resimlink.com/SlqAH.jpeg", Çiftçi TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:1 TarimTV, tvg-logo="https://r.resimlink.com/OEFPg.png", Tarım TV
