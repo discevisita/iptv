@@ -47,7 +47,7 @@ https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1 EKOL TV, tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
-https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", SÖZCÜ TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 KRT TV, tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png", KRT 
