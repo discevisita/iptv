@@ -56,7 +56,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u88
 #EXTINF:-1 FLASH TV, tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png", FLASH TV
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 KANAL B, tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png", Kanal B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+
 #EXTINF:-1, Can TV, tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg", CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 Yol Tv, tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png", YOL TV
