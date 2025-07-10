@@ -25,7 +25,6 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Avaz, tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-url="", TRT Avaz 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 016 TRT Haber, tvg-logo="https://r.resimlink.com/bOg9nfrT.png" tvg-url="", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 NTV, tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png", NTV
@@ -49,7 +48,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 HALK TV, tvg-logo="https://i.imgur.com/vYEnfbj.jpg", HALK TV 
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 Sözcü TV tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", SÖZCÜ TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+https://izle.canlitvapp.com/sozcu/index.m3u8
 #EXTINF:-1 KRT TV, tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png", KRT 
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 TELE 1, tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png", TELE 1 HD
