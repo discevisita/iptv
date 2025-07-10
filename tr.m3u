@@ -67,37 +67,25 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 TRT Belgesel, tvg-logo="https://i.imgur.com/9lW0TV2.png", TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 Agro Tv, tvg-logo="https://r.resimlink.com/7R2lq1xYW3g.png", Agro TV 
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
-#EXTINF:1 Ciftci TV, tvg-logo="https://r.resimlink.com/SlqAH.jpeg", Çiftçi TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:1 TarimTV, tvg-logo="https://r.resimlink.com/OEFPg.png", Tarım TV
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8 
-#EXTINF:-1 Köy Tv tvg-logo="https://r.resimlink.com/vSMeTWG-Cb.jpeg", KOY TV
-http://stream.tvcdn.net/belgesel/koy-tv.m3u8
-#EXTINF:-1 Toprak Tv tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="",Toprak TV
-http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 
 #EXTINF:-1, BRT 1, tvg-logo="https://r.resimlink.com/aKcShsx8r.png", BRT 1 
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1, BRT 2, tvg-logo="https://r.resimlink.com/xQRDN5jubOg.jpeg", BRT 2 
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1 AdaTV  tvg-logo="http://assets.tvcdn.net/82d236a1-6b78-4929-90dd-489edd6c4240.png" group-title="",Kıbrıs Ada TV
-http://stream.tvcdn.net/kibris/kibris-ada-tv.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 #EXTINF:-1 KanalSim tvg-logo="http://assets.tvcdn.net/ad763e2a-457e-41ee-9c1e-ed498aefbb88.png" group-title="", Kanal Sim
-http://stream.tvcdn.net/kibris/kanal-sim.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:-1 KibrisGencTV tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="", Kıbrıs Genç TV
-http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 #EXTINF:-1 KibrisKanalT tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="",Kıbrıs Kanal T
-http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1 KibrisTV tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="",Kıbrıs TV
-http://stream.tvcdn.net/kibris/kibris-tv.m3u8
+https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:-1 TV2020 tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="",TV 2020
-http://stream.tvcdn.net/kibris/tv-2020.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1  Kuzey Kıbrıs TV tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="",Kuzey Kıbrıs TV
-http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
-#EXTINF:-1 Torba TV tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="",Torba TV
-
+http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="",BBC One
 http://92.114.85.81:8000/play/a001/index.m3u8
