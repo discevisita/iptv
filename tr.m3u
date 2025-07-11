@@ -139,11 +139,11 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 bbclifestyle, tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/1280px-BBC_Lifestyle2.svg.png",BBC Lifestyle
 
 #EXTINF:-1 BBC Food, tvg-logo="https://i.imgur.com/N3xiz4m.png", BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 GUSTOTVUK, tvg-logo="https://i.imgur.com/vanl2NZ.jpg", GUSTO TV 
-https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 Homes Under Hammer, tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png", Homes Under Hammer
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 NBCLX, tvg-logo="https://i.imgur.com/FPt2WNf.jpg",NBCLX
 
 #EXTINF:-1 A&E, tvg-logo="https://i.imgur.com/zl7Gzwm.png", A&E
@@ -151,9 +151,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8
 #EXTINF:-1 Insight, tvg-logo="https://i.imgur.com/ewkmZM1.png", Insight
 
 #EXTINF:-1 Inwild, tvg-logo="https://i.imgur.com/8SgbMqY.png", Inwild Uk
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 Inwonder Uk, tvg-logo="https://i.imgur.com/5VUGeTE.png", Inwonder Uk
-https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 LoveNature Us, tvg-logo="https://i.imgur.com/K1kJf1s.png", Love Nature
 
 #EXTINF:-1 Spark Tv, tvg-logo="https://i.imgur.com/vTGknv3.png", Spark Tv
@@ -161,19 +161,19 @@ https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 Crime360, tvg-logo="https://i.imgur.com/uZPmFMY.png", Crime 360
 
 #EXTINF:-1 Crime Investigation, tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png", Crime Investigation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 Crime Time, tvg-logo="https://i.imgur.com/cQxKMMJ.jpg", Crime Time 
 
 #EXTINF:-1 RealStories tvg-logo="https://i.imgur.com/TVfuBfJ.jpg", Real Stories
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 My5Crime, tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png", My5 Crime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 My5Documentaries, tvg-logo="https://i.imgur.com/xhIXQGK.png", My5 Documentaries
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 HistoryEast, tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg", History East 
 
-#EXTINF:-1 EURONEWS, tvg-logo="https://i.imgur.com/szYOy8S.jpg", EURONEWS
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 EURONEWS, tvg-logo="https://i.imgur.com/szYOy8S.jpg", EURONEWS DE
+https://jmp2.uk/sam-DE2600003TR.m3u8
 #EXTINF:0, DW, tvg-logo="https://i.imgur.com/yohUemN.png", DW Deutsch
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 DeutscheWellePlus, tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png", DeutscheWellePlus
