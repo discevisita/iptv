@@ -30,7 +30,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TRT 1 HD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2 HD.tr" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Ulusal",TRT 2
+#EXTINF:-1 tvg-name="TRT 2 HD.tr" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/23ZSM7jC/TRT2.webp" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 
