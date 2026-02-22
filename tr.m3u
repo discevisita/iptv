@@ -59,7 +59,7 @@ https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİÇAĞ TV
 https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TH TÜRK HABER.tr"  tvg-name="TH TÜRK HABER.tr" tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg",TH TÜRK HABER
+#EXTINF:-1 tvg-id="TH TÜRK HABER.tr"  tvg-name="TH TÜRK HABER.tr" tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="Ulusal",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 
@@ -72,7 +72,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Ulusal",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
+#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BRT1.tr" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Kıbrıs", BRT 1
@@ -94,21 +94,20 @@ https://streams.uzunmuhalefet.com/stream/c9c46c4d-efa9-464b-8a16-394b25096f35.m3
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png" group-title="TURK HD+ LINE",TRT BELGESEL
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png" group-title="Ulusal",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png" group-title="TURK HD+ LINE",TRT WORLD
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png" group-title="Ulusal",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="TURK HD+ LINE",TRT MUZIK
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title=group-title="Ulusal",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Ulusal",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="ULUSAL",TIVI 6
+#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="Ulusal",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
+#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3
 
 
@@ -310,11 +309,11 @@ http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV
+#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="Ulusal",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
+#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Ulusal",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="Ulusal",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
 
