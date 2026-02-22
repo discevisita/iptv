@@ -18,6 +18,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV 4.tr"tvg-name="TV 4.tr"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png" group-title="Ulusal", TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="BIR TV.tr" tvg-name="BIR TV.tr" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRT 1 HD.tr" tvg-name="TRT 1 HD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2 HD.tr" tvg-name="TRT 2 HD.tr" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/23ZSM7jC/TRT2.webp" group-title="Ulusal",TRT 2
@@ -51,6 +54,7 @@ http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-id="LİDER HABER TV.tr" tvg-name="LİDER HABER TV.tr" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" referer="https://interweb.com.tr/" group-title="Ulusal", LİDER HABER
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+
 #EXTINF:-1 ttvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr"vg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Ulusal", BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
 #EXTINF:-1 ttvg-id="CNBC-E.tr" tvg-name="CNBC-E.tr"tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png"group-title="Ulusal", CNBC-E
@@ -76,8 +80,6 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Ulusal",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
-https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BRT1.tr" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Kıbrıs", BRT 1
 https://streams.uzunmuhalefet.com/stream/87fee393-281a-499c-97c3-18ff5c7b2289.m3u8
