@@ -194,6 +194,6 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1,TV 48 group-title="Yerel"
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="İngilizce",TRT WORLD
+#EXTINF:-1 tvg-id="TRT World HD.tr" tvg-name="TRT World HD.tr" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="İngilizce",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
