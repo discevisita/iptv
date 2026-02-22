@@ -138,14 +138,14 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1,MERCAN TV group-title="Yerel", Mercan Tv
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:-1,KANAL FIRAT group-title="Yerel", Kanal Fırat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1,KANAL 23 group-title="Yerel", Kanal 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 #EXTINF:-1,KANAL 12 group-title="Yerel", Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1,KANAL 15 group-title="Yerel", Kanal 15
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1,KANAL 23 group-title="Yerel", Kanal 23
-https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:-1,KANAL 26 group-title="Yerel", Kanal 26
-https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 #EXTINF:-1,KANAL 32 group-title="Yerel", Kanal 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
 #EXTINF:-1,KANAL 33 group-title="Yerel", Kanal 33
@@ -156,16 +156,10 @@ https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,KANAL 58 group-title="Yerel", Kanal 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-#EXTINF:-1,KANAL ADA group-title="Yerel", Kanal Ada
-http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
 #EXTINF:-1,KANAL AVRUPA group-title="Yerel", Kanal Avrupa
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:-1,KANAL Z group-title="Yerel", Kanal Z
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1,KANAL PLUS group-title="Yerel", Kanal Plus
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:-1,KANAL FIRAT group-title="Yerel", Kanal Fırat
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 EXTINF:-1,KOCAELİ TV group-title="Yerel", Kanal Kocaeli
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1,LİFE TV group-title="Yerel", Life Tv
