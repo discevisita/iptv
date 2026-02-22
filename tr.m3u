@@ -1,3 +1,4 @@
+
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
 http://95.174.71.114/TR-TRT1/index.m3u8
@@ -832,4 +833,5 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Belgesel", Davinci Learning
 
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
+
 
