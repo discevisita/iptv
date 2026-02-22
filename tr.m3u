@@ -122,27 +122,27 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Film Dizi",SiNEMA 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title=group-title="Müzik",TRT MUZIK
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="Müzik",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title=group-title="Müzik",NR1
+#EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="Müzik",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-name="MILYON TV" tvg-id="" tvg-logo="https://i.ibb.co/sQRhqCs/milyon-tv.png" group-title=group-title="Müzik",MILYON TV
+#EXTINF:-1 tvg-name="MILYON TV" tvg-id="" tvg-logo="https://i.ibb.co/sQRhqCs/milyon-tv.png" group-title="Müzik",MILYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title=group-title="Müzik",KRAL POP
+#EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="Müzik",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TATLISES TV" tvg-id="Tatlıses.Tv.tr" tvg-logo="https://i.ibb.co/yRy9zwt/tatlises-tv.png" group-title=group-title="Müzik",TATLISES TV
+#EXTINF:-1 tvg-name="TATLISES TV" tvg-id="Tatlıses.Tv.tr" tvg-logo="https://i.ibb.co/yRy9zwt/tatlises-tv.png" group-title="Müzik",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
-#EXTINF:-1 tvg-name="Number 1 Ask" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title=group-title="Müzik",NR1 ASK
+#EXTINF:-1 tvg-name="Number 1 Ask" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="Müzik",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Damar" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title=group-title="Müzik",NR1 DAMAR
+#EXTINF:-1 tvg-name="Number 1 Damar" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title="Müzik",NR1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title=group-title="Müzik",NR1 DANCE
+#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" ggroup-title="Müzik",NR1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title=group-title="Müzik",NR1 FASHION ONE
+#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="Müzik",NR1 FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title=group-title="Müzik",TRT MUZIK
+#EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="Müzik",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="DREAM TÜRK.tr" tvg-id="DREAM TÜRK.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title=group-title="Müzik",DREAM TURK
+#EXTINF:-1 tvg-name="DREAM TÜRK.tr" tvg-id="DREAM TÜRK.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="Müzik",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 
