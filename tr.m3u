@@ -24,7 +24,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT TÜRK.tr" tvg-name="TRT TÜRK.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="Ulusal", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT AVAZ.tr" tvg-name="TRT AVAZ.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="Ulusal", TRT AVAZ
+#EXTINF:-1 tvg-id="TRT AVAZ.tr" tvg-name="TRT AVAZ.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" , TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="Ulusal",TRT HABER
@@ -35,29 +35,30 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="Ulusal",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLhpBRK8/ilke.png",İLKE
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="Ulusal",TV100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1 tvg-id="HALK TV.tr" tvg-name="HALK TV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="Ulusal",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Ulusal", SÖZCÜ TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="Ulusal", MELTEM TV
+http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ILKE TV.tr" tvg-name="ILKE TV.tr" tvg-logo="https://i.ibb.co/gLhpBRK8/ilke.png" group-title="Ulusal", İLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" referer="https://interweb.com.tr/",LİDER HABER
-https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/playlist.m3u8
+#EXTINF:-1 tvg-id="LİDER HABER TV.tr" tvg-name="LİDER HABER TV.tr" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" referer="https://interweb.com.tr/" group-title="Ulusal" , LİDER HABER
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TGRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png" group-title="TURK HD+ LINE",TGRT HABER
+#EXTINF:-1 tvg-id="TGRT HABER.tr.tr" tvg-name="TGRT HABER. tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png" group-title="TURK HD+ LINE",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TURK HD+ LINE",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:-1 tvg-id="Halk TV.tr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="Ulusal",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="TURK HD+ LINE",TV100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="AKIT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="TURK HD+ LINE",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
