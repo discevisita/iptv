@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml"
 
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW"  tvg-logo="https://i.hizliresim.com/a40q4by.png" group-title="Ulusal", NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
