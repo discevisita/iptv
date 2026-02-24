@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml", url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml", https://streams.uzunmuhalefet.com/epg/tr.xml
 
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr"  tvg-logo="https://i.hizliresim.com/a40q4by.png" group-title="Ulusal", NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -173,6 +173,13 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1,TV 48 group-title="Yerel", Kanal 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
-#EXTINF:-1 tvg-id="TRT World HD.tr" tvg-name="TRT World HD.tr" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="İngilizce",TRT WORLD
+#EXTINF:-1 tvg-id="TRT World HD.tr" tvg-name="TRT World HD.tr" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="News",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News",France 24 Ⓨ
+https://www.youtube.com/france24english/live
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="News",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News",Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
