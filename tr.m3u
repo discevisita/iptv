@@ -69,8 +69,6 @@ https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="Ulusal",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİÇAĞ TV
-https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TH TÜRK HABER.tr"  tvg-name="TH TÜRK HABER.tr" tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="Ulusal",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
