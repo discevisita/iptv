@@ -54,12 +54,9 @@ http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="ILKE TV.tr" tvg-name="ILKE TV.tr" tvg-logo="https://i.ibb.co/gLhpBRK8/ilke.png" group-title="Ulusal", İLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 tvg-id="LİDER HABER TV.tr" tvg-name="LİDER HABER TV.tr" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" referer="https://interweb.com.tr/" group-title="Ulusal", LİDER HABER
+#EXTINF:-1 tvg-id="LİDER HABER TV.tr" tvg-name="LİDER HABER TV.tr" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" group-title="Ulusal", LİDER HABER
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 ttvg-id="" tvg-name=""tvg-logo="" group-title="Ulusal", MK TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 ttvg-id="" tvg-name=""tvg-logo=""group-title="Ulusal", TİVİ6
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+
 
 #EXTINF:-1 ttvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr"vg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Ulusal", BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
@@ -182,6 +179,8 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1,TV 48 group-title="Yerel", Kanal 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:-1 ttvg-id="" tvg-name=""tvg-logo=""group-title="Ulusal", TİVİ6
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT World HD.tr" tvg-name="TRT World HD.tr" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="News",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
