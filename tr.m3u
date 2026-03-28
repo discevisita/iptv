@@ -166,7 +166,7 @@ https://nowhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News", NBC News NOW 
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg", group-title="News" NBC NEWS
+#EXTINF:-1 tvg-id="NBCNews"tvg-name="NBCNews" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg", group-title="News" NBC NEWS
 https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006
 
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="News", ABC NEWS
