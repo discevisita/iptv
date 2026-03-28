@@ -12,16 +12,11 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Ulusal", TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Ulusal", BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="360 HD.tr"tvg-name="360 HD.tr"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="Ulusal", 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="TV 4.tr"tvg-name="TV 4.tr"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png" group-title="Ulusal", TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="BIR TV.tr" tvg-name="BIR TV.tr" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
-https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 
+
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2 HD.tr" tvg-name="TRT 2 HD.tr" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/23ZSM7jC/TRT2.webp" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -141,6 +136,12 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Ulusal", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="TV 4.tr"tvg-name="TV 4.tr"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png" group-title="Ulusal", TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="BIR TV.tr" tvg-name="BIR TV.tr" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1,MERCAN TV group-title="Yerel", Mercan Tv
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1,KANAL FIRAT group-title="Yerel", Kanal Fırat
