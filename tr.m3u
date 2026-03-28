@@ -157,7 +157,7 @@ https://nowhls.wns.live/hls/stream.m3u8
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 tvg-id="GLOBAL NEWS" tvg-name="GLOBAL NEWS" tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png", GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
-#EXTINF:-1 ttvg-id="GB NEWS" tvg-name="GB NEWS"vg-logo="https://i.ibb.co/dpMQyVx/gbn.png", GB NEWS
+#EXTINF:-1 ttvg-id="GB NEWS" tvg-name="GB NEWS" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png", GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News", NBC News NOW 
