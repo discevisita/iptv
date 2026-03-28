@@ -53,7 +53,7 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
 
-#EXTINF:-1 ttvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr"vg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Ulusal", BLOOMBERG HT
+#EXTINF:-1 ttvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr" vg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Ulusal", BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
 #EXTINF:-1 ttvg-id="CNBC-E.tr" tvg-name="CNBC-E.tr"tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png"group-title="Ulusal", CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
