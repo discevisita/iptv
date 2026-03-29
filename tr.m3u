@@ -96,9 +96,9 @@ https://streams.uzunmuhalefet.com/stream/c9c46c4d-efa9-464b-8a16-394b25096f35.m3
 
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="National Geographic WILD.tr" tvg-logo="https://i.hizliresim.com/shrfa8o.png" group-title="Belgesel", NAT GEO WİLD HD
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.hizliresim.com/shrfa8o.png" group-title="Belgesel", NAT GEO WİLD HD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="National Geographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.hizliresim.com/i6xcw75.png" group-title="Belgesel", DMAX
 https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
