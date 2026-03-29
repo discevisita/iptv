@@ -104,9 +104,9 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.hizliresim.com/8i9tlkf.png" group-title="Belgesel", TLC
 https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8
-#EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel", BBCEarth
+#EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Belgesel", BBC Four
+#EXTINF:-1 tvg-id="BBCFour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Belgesel", BBC Four
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Belgesel", CGTN Documentry
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
