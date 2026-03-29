@@ -33,7 +33,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV HD.tr"  tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Ulusal", NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-name="HABER GLOBAL HD.tr"  tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="Ulusal", HABER GLOBAL
+#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-name="HABER GLOBAL HD.tr"  tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Ulusal", HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="Ulusal",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
