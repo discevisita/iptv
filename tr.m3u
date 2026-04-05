@@ -119,8 +119,7 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://i.hizliresim.com/28iyg3y.png" group-title="Film Dizi", FX TV HD
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Film Dizi",SiNEMA 1
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="TRT World HD.tr" tvg-name="TRT World HD.tr" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="News", TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
@@ -136,10 +135,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png"  group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="RT NEWS" tvg-name="RT NEWS" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="News", RT NEWS 
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="AL ARABIYA ENG" tvg-name="AL ARABIYA ENG" tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="News", AL ARABIYA ENG
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-id="RT NEWS" tvg-name="RT NEWS" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="News", RT NEWS 
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News", FOX NEWS 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8 
@@ -180,11 +180,6 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AL ARABIYA ENG" tvg-name="AL ARABIYA ENG" tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="News", AL ARABIYA ENG
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png"  AL ARABIYA ENG
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
 https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
