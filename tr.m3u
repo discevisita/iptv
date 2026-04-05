@@ -90,28 +90,27 @@ https://streams.uzunmuhalefet.com/stream/33d40a7a-7bd6-4b47-afbf-be2b8fa2b9f0.m3
 #EXTINF:-1 tvg-id="Kıbrıs TV.tr" tvg-name="Kıbrıs TV.tr" tvg-logo="Kıbrıs TV.tr" tvg-logo="" group-title="Kıbrıs", Kıbrıs TV
 https://streams.uzunmuhalefet.com/stream/c1b6f4b2-4b92-444d-872c-66a1ecb2da50.m3u8
 #EXTINF:-1 tvg-id="Kuzey Kıbrıs TV.tr" tvg-name="Kuzey Kıbrıs TV.tr" tvg-logo="Kuzey Kıbrıs TV.tr" tvg-logo="" group-title="Kıbrıs", Kuzey Kıbrıs TV
-https://streams.uzunmuhalefet.com/stream/3ffde98c-2303-4b73-8ff7-610d7b55a2c7.m3u8
+
 #EXTINF:-1 tvg-id="Kanal Sim.tr" tvg-name="Kanal Sim.tr" tvg-logo="Kanal Sim.tr" tvg-logo="" group-title="Kıbrıs", Kanal Sim
-https://streams.uzunmuhalefet.com/stream/c9c46c4d-efa9-464b-8a16-394b25096f35.m3u8
+
 
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.hizliresim.com/shrfa8o.png" group-title="Belgesel", NAT GEO WİLD HD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
-https://saran-live.ercdn.net/natgeohd/index.m3u8
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.hizliresim.com/i6xcw75.png" group-title="Belgesel", DMAX
 https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.hizliresim.com/8i9tlkf.png" group-title="Belgesel", TLC
 https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.hizliresim.com/shrfa8o.png" group-title="Belgesel", NAT GEO WİLD HD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Belgesel", BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Belgesel", CGTN Documentry
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Belgesel", CGTN Documentry
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Belgesel", DocumentaryPlus
+#EXTINF:-1 tvg-id="DocumentaryPlus" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Belgesel", DocumentaryPlus
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://i.hizliresim.com/r2mflqv.png" group-title="Film Dizi", Film Screen HD
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
