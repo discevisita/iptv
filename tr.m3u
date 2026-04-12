@@ -57,8 +57,7 @@ http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="ILKE TV.tr" tvg-name="ILKE TV.tr" tvg-logo="https://i.ibb.co/gLhpBRK8/ilke.png" group-title="Ulusal", İLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 tvg-id="LIDERHABERTV.tr" tvg-name="LİDER HABER TV.tr" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" group-title="Ulusal", LİDER HABER
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+-a1.m3u8
 
 #EXTINF:-1 tvg-id="ULUSAL KANAL.tr" tvg-name="ULUSAL KANAL.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="Ulusal", ULUSAL TV
 https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
