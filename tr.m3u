@@ -37,7 +37,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK HD.tr" tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Ulusal", CNN TURK
-https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+https://helga.iptv2022.com/cnn_turk/index.m3u8
 
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="Ulusal", TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
@@ -47,7 +47,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 
 #EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-name="BLOOMBERG HT HD.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Ulusal", BLOOMBERG HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8app=web&ce=3
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-name="CNBC-E.tr"tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png"group-title="Ulusal", CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
