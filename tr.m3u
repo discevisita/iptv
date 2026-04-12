@@ -60,7 +60,7 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 -a1.m3u8
 
 #EXTINF:-1 tvg-id="ULUSAL KANAL.tr" tvg-name="ULUSAL KANAL.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="Ulusal", ULUSAL TV
-https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="Ulusal", BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 
