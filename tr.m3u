@@ -60,12 +60,12 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-id="ULUSAL KANAL.tr" tvg-name="ULUSAL KANAL.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="Ulusal", ULUSAL TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="Ulusal", BENGU TURK
-https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Benguturk_Tv.m3u8
 
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="Ulusal", TGRT HABER 
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="AKİT TV HD.tr" tvg-name="AKİT TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="Ulusal", AKIT TV
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Akit_Tv.m3u8
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TVNET HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="Ulusal", TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Ulusal", 24
@@ -85,8 +85,7 @@ https://streams.uzunmuhalefet.com/stream/33d40a7a-7bd6-4b47-afbf-be2b8fa2b9f0.m3
 #EXTINF:-1 tvg-id="Kıbrıs TV.tr" tvg-name="Kıbrıs TV.tr" tvg-logo="Kıbrıs TV.tr" tvg-logo="" group-title="Kıbrıs", Kıbrıs TV
 https://streams.uzunmuhalefet.com/stream/c1b6f4b2-4b92-444d-872c-66a1ecb2da50.m3u8
 #EXTINF:-1 tvg-id="Kuzey Kıbrıs TV.tr" tvg-name="Kuzey Kıbrıs TV.tr" tvg-logo="Kuzey Kıbrıs TV.tr" tvg-logo="" group-title="Kıbrıs", Kuzey Kıbrıs TV
-
-#EXTINF:-1 tvg-id="Kanal Sim.tr" tvg-name="Kanal Sim.tr" tvg-logo="Kanal Sim.tr" tvg-logo="" group-title="Kıbrıs", Kanal Sim
+http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
 
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
@@ -119,7 +118,7 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="TRT World HD.tr" tvg-name="TRT World HD.tr" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="News", TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="EURONEWS EN" tvg-name="EURONEWS EN" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="News", EURONEWS EN
-https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8euronews-en.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.tr" tvg-name="BBCWorldNews.tr" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="News", Sky News
@@ -133,7 +132,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png"  group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AL ARABIYA ENG" tvg-name="AL ARABIYA ENG" tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="News", AL ARABIYA ENG
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RT NEWS" tvg-name="RT NEWS" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="News", RT NEWS 
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="i24 NEWS EN" tvg-name="i24 NEWS EN" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="News", i24 NEWS EN
@@ -148,7 +147,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBS NEWS 
-
+https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://i.hizliresim.com/laqx86w.png" group-title="News", NBC News 
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News", NBC News NOW 
@@ -182,15 +181,15 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
 #EXTINF:-1 tvg-name="RTL.de" tvg-logo="https://download.avm.de/tv/logos/rtl.png" group-title="Germany" , RTL
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat Ⓖ
+#EXTINF:-1 tvg-name="3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat Ⓖ
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" tvg-id="ARDalpha.de" group-title="Germany",ARD Alpha Ⓖ
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
+#EXTINF:-1 tvg-name="ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
