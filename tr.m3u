@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml, https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr"  tvg-logo="https://i.hizliresim.com/a40q4by.png" group-title="Ulusal", NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ALfGCgVuM2zNY4BApAXd5Q&e=1779113955
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=U6024hs_1H1UxWqkxKFISg&e=1779178732
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Ulusal", STAR TV HD
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Ulusal", KANAL D HD
