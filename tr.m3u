@@ -147,7 +147,6 @@ https://live.presstv.ir/hls/presstv.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-id="CNN INT" tvg-name="CNN INT" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="News", CNN INT
 https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
-
 #EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBS NEWS 
 https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://i.hizliresim.com/laqx86w.png" group-title="News", NBC News 
@@ -162,16 +161,8 @@ https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2a
 https://nowushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NOW NEWS GLOBAL" tvg-name="NOW NEWS GLOBAL" tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png"group-title="News", NOW NEWS GLOBAL
 https://nowhls.wns.live/hls/stream.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="ABC NEWS AUSTRALIA" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png" group-title="News", ABC NEWS AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-
-
 #EXTINF:-1 tvg-id="CHANNEL NEWS ASIA" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://i.ibb.co/7J24bwVD/cnaid.png" group-title="News", CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="AFRICANEWS EN" tvg-name="AFRICANEWS EN" tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png" group-title="News", AFRICANEWS EN
