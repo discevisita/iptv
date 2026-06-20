@@ -91,6 +91,8 @@ http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ÇİFTÇİ TV" tvg-name="ÇİFTÇİ TV" tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="Uncategorized",ÇİFTÇİ TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.hizliresim.com/i6xcw75.png" group-title="Belgesel", DMAX
 https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.hizliresim.com/8i9tlkf.png" group-title="Belgesel", TLC
