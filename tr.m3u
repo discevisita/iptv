@@ -43,12 +43,12 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="Ulusal", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Ulusal", SÖZCÜ TV
+#EXTINF:-1 tvg-id="sozcu.tr" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Ulusal", SÖZCÜ TV
 https://helga.iptv2022.com/szc_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Ulusal", BLOOMBERG HT
 https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="cnbe-e.tr" tvg-name="CNBC-E.tr"tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png"group-title="Ulusal", CNBC-E
+#EXTINF:-1 tvg-id="cnbc-e.tr" tvg-name="CNBC-E" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png"group-title="Ulusal", CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 #EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV.tr" tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png" group-title="Ulusal", MELTEM TV
