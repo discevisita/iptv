@@ -21,7 +21,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-name="TRT 2 HD.tr" tvg-logo="https://i.ibb.co/23ZSM7jC/TRT2.webp" group-title="Ulusal",TRT 2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/23ZSM7jC/TRT2.webp" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT TÜRK.tr" tvg-name="TRT TÜRK.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="Ulusal", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
