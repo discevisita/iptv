@@ -25,7 +25,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTURK.tr" tvg-name="TRT TÜRK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="Ulusal", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT AVAZ.tr" tvg-name="TRT AVAZ.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="Ulusal", TRT AVAZ
+#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-name="TRT AVAZ" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="Ulusal", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="Ulusal",TRT HABER
