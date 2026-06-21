@@ -30,9 +30,9 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="Ulusal",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV HD.tr"  tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Ulusal", NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV"  tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Ulusal", NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-name="HABER GLOBAL HD.tr"  tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Ulusal", HABER GLOBAL
+#EXTINF:-1 tvg-id="HABERGLOBAL.tr" tvg-name="HABER GLOBAL"  tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Ulusal", HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="Ulusal",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
