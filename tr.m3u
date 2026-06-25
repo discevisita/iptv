@@ -202,23 +202,23 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 
 #EXTINF:-1 tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF 
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
 #EXTINF:-1 tvg-name="Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png" tvg-id="Phoenix.de" group-title="Germany",Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="Welt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png" tvg-id="Welt.de" group-title="Germany",Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png" tvg-id="ZDFinfo.de" group-title="Germany",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="ZDFneo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/569px-ZDFneo2017_Logo.svg.png" tvg-id="ZDFneo.de" group-title="Germany",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="BR Süd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenSud.de" group-title="Germany",BR Süd
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+
 #EXTINF:-1 tvg-name="MDR Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsen.de" group-title="Germany",MDR Sachsen 
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+
 
 #EXTINF:-1 tvg-id="DELUXEMUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Müzik", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
