@@ -37,7 +37,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABER TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="Ulusal",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="CNN.TÜRK.HD.tr" tvg-id="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Ulusal", CNN TURK
+#EXTINF:-1 tvg-id="CNN.TÜRK.HD.tr" tvg-name="CNN TURK"  tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Ulusal", CNN TURK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="Ulusal", TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
