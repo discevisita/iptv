@@ -82,7 +82,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://streams.uzunmuhalefet.com/stream/87fee393-281a-499c-97c3-18ff5c7b2289.m3u8
 #EXTINF:-1 tvg-id="TV 2020.tr" tvg-name="TV 2020.tr" tvg-logo="TV 2020.tr" group-title="Kıbrıs", TV 2020
 https://streams.uzunmuhalefet.com/stream/b0f9e41b-ed43-4373-8844-566529163b01.m3u8
-#EXTINF:-1 tvg-id="AdaTV.tr" tvg-name="AdaTV.tr" tvg-logo="AdaTV.tr" tvg-logo="" group-title="Kıbrıs", Ada TV
+#EXTINF:-1 tvg-id="AdaTV.tr" tvg-name="AdaTV.tr" tvg-logo="AdaTV.tr" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="Kıbrıs", Ada TV
 https://streams.uzunmuhalefet.com/stream/975e6a82-279a-4b00-a9b4-85c92f480803.m3u8
 #EXTINF:-1 tvg-id="Genç TV.tr" tvg-name="Genç TV.tr" tvg-logo="Genç TV.tr" tvg-logo="" group-title="Kıbrıs", Genç TV
 https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
