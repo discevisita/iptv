@@ -67,6 +67,8 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 https://streams.uzunmuhalefet.com/stream/e8b425ad-571d-475d-a657-37bca8985836.m3u8
 #EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="Ulusal", BENGU TURK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="MC.tr" tvg-name="MC" tvg-logo="https://i.hizliresim.com/tb9opk5.png" group-title="Ulusal", MC TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="Ulusal", TGRT HABER 
 https://canli.tgrthaber.com/tgrt.m3u8
