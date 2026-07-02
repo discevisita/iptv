@@ -17,7 +17,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Ulusal", BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="countries/turkey/tv4-tr.png" group-title="Ulusal",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.hizliresim.com/ikewlh5.png" group-title="Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="BIR TV" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
