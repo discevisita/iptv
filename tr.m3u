@@ -87,7 +87,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BRT 1 HD.tr" tvg-name="BRT 1 HD.tr" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Kıbrıs", BRT 1
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u818ff5c7b2289.m3u8
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=575af483b73a7e1874add233dc58aae1.m3u818ff5c7b2289.m3u8
 #EXTINF:-1 tvg-id="TV 2020.tr" tvg-name="TV 2020.tr" tvg-logo="TV 2020.tr" group-title="Kıbrıs", TV 2020
 https://streams.uzunmuhalefet.com/stream/b0f9e41b-ed43-4373-8844-566529163b01.m3u8
 #EXTINF:-1 tvg-id="AdaTV.tr" tvg-name="AdaTV.tr" tvg-logo="AdaTV.tr" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="Kıbrıs", Ada TV
