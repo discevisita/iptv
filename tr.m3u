@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz"
 
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW" tvg-logo="https://i.hizliresim.com/a40q4by.png" group-title="Ulusal", NOW
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW" tvg-logo="https://i.ibb.co/prwZS5W8/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Ulusal", NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Ulusal", STAR TV 
@@ -17,7 +17,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Ulusal", BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.hizliresim.com/ikewlh5.png" group-title="Ulusal",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.ibb.co/FLWw6XZS/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="BIR TV" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
