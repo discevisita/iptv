@@ -108,7 +108,7 @@ http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/WvCvVrrz/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", DMAX
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.hizliresim.com/8i9tlkf.png" group-title="Belgesel", TLC
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/KpCxxsXd/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", TLC
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
 http://46.32.176.50/NationalGeographicHD/index.m3u8
