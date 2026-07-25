@@ -161,8 +161,6 @@ https://i.imgur.com/7bRVpnu.png"  group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="ABCNews" tvg-logo="https://i.ibb.co/yBXSH1x6/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="News", ABC News 
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-id="AL ARABIYA ENG" tvg-name="AL ARABIYA ENG" tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="News", AL ARABIYA ENG
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RT NEWS" tvg-name="RT NEWS" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="News", RT NEWS 
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://i.hizliresim.com/26pfuli.png" group-title="News", CGTN 
