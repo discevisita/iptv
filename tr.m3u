@@ -81,7 +81,7 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Ulusal", 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="UlkeTV.tr" tvg-logo="" group-title="Ulusal", UlkeTV
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="UlkeTV.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Ulusal", UlkeTV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 
