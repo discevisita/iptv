@@ -110,7 +110,7 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/KpCxxsXd/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", TLC
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.ibb.co/h17BsfgY/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", NAT GEO HD
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.hizliresim.com/shrfa8o.png" group-title="Belgesel", NAT GEO WİLD HD
 http://185.102.171.218/NatGeoWild/index.m3u8
