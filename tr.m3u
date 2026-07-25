@@ -77,7 +77,7 @@ https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="AKİT TV HD.tr" tvg-name="AKİT TV HD.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="Ulusal", AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TVNET HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="Ulusal", TVNET
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="Ulusal", TVNET
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="KANAL24.tr" tvg-name="KANAL24.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Ulusal", KANAL24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
@@ -111,9 +111,9 @@ http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.hizliresim.com/8i9tlkf.png" group-title="Belgesel", TLC
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.hizliresim.com/t7tjc7o.png" group-title="Belgesel", NAT GEO HD
-http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.hizliresim.com/shrfa8o.png" group-title="Belgesel", NAT GEO WİLD HD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
+http://185.102.171.218/NatGeoWild/index.m3u8
 #EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-logo="https://i.hizliresim.com/hje6cgg.png" group-title="Belgesel", CGTN Documentry
@@ -147,7 +147,7 @@ https://saran-live.ercdn.net/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT.World.HD.tr" tvg-name="TRT World HD" tvg-logo="https://i.hizliresim.com/7k5e409.png" group-title="News", TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="EURONEWS EN" tvg-name="EURONEWS EN" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="News", EURONEWS EN
+#EXTINF:-1 tvg-id="EURONEWS.tr" tvg-name="EURONEWS.tr" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="News", EURONEWS EN
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.tr" tvg-name="BBCWorldNews.tr" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
