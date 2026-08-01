@@ -174,7 +174,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
 #EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBS NEWS 
 https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNews" tvg-name="NBCNews" tvg-logo="https://i.hizliresim.com/laqx86w.png" group-title="News", NBC News 
+#EXTINF:-1 tvg-id="CBCNews" tvg-name="CBCNews" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBC News 
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News", NBC News NOW 
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
