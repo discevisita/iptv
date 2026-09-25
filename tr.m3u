@@ -37,7 +37,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="CNN.TÜRK.HD.tr" tvg-name="CNN TURK"  tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Ulusal", CNN TURK
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/cnnturk.m3u8
+
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="Ulusal", TV100
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="Ulusal", HALK TV
@@ -76,19 +76,19 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BRT 1 HD.tr" tvg-name="BRT 1 HD.tr" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Kıbrıs", BRT 1
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=575af483b73a7e1874add233dc58aae1.m3u818ff5c7b2289.m3u8
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV 2020.tr" tvg-name="TV 2020.tr" tvg-logo="TV 2020.tr" group-title="Kıbrıs", TV 2020
-https://streams.uzunmuhalefet.com/stream/b0f9e41b-ed43-4373-8844-566529163b01.m3u8
+
 #EXTINF:-1 tvg-id="AdaTV.tr" tvg-name="AdaTV.tr" tvg-logo="AdaTV.tr" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="Kıbrıs", Ada TV
-https://streams.uzunmuhalefet.com/stream/975e6a82-279a-4b00-a9b4-85c92f480803.m3u8
+
 #EXTINF:-1 tvg-id="Genç TV.tr" tvg-name="Genç TV.tr" tvg-logo="Genç TV.tr" tvg-logo="" group-title="Kıbrıs", Genç TV
-https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
+
 #EXTINF:-1 tvg-id="Kanal T.tr" tvg-name="Kanal T.tr" tvg-logo="Kanal T.tr" tvg-logo="" group-title="Kıbrıs", Kanal T
-https://streams.uzunmuhalefet.com/stream/33d40a7a-7bd6-4b47-afbf-be2b8fa2b9f0.m3u8
+
 #EXTINF:-1 tvg-id="Kıbrıs TV.tr" tvg-name="Kıbrıs TV.tr" tvg-logo="Kıbrıs TV.tr" tvg-logo="" group-title="Kıbrıs", Kıbrıs TV
-https://streams.uzunmuhalefet.com/stream/c1b6f4b2-4b92-444d-872c-66a1ecb2da50.m3u8
+
 #EXTINF:-1 tvg-id="Kuzey Kıbrıs TV.tr" tvg-name="Kuzey Kıbrıs TV.tr" tvg-logo="Kuzey Kıbrıs TV.tr" tvg-logo="https://i.hizliresim.com/a13zs6lt.jpg" group-title="Kıbrıs", Kuzey Kıbrıs TV
-http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
@@ -104,7 +104,7 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.ibb.co/h17BsfgY/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", NAT GEO HD
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.ibb.co/Q3XCFCtW/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", NAT GEO WİLD HD
-http://185.102.171.218/NatGeoWild/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-logo="https://i.ibb.co/VWnymrbY/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", CGTN Documentry
@@ -156,7 +156,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="i24 NEWS EN" tvg-name="i24 NEWS EN" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="News",i24 NEWS EN
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="PRESS TV" tvg-name="PRESS TV" tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="News", PRESS TV
-https://live.presstv.ir/hls/presstv.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News", FOX NEWS 
@@ -181,8 +181,6 @@ https://nowhls.wns.live/hls/stream.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 tvg-id="CHANNEL NEWS ASIA" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://i.ibb.co/7J24bwVD/cnaid.png" group-title="News", CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="AFRICANEWS EN" tvg-name="AFRICANEWS EN" tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png" group-title="News", AFRICANEWS EN
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/5a098a95-cc1e-4e08-8785-65fe2ac4dda3/5.m3u8
 #EXTINF:-1 tvg-id="AFRICA 24 EN" tvg-name="AFRICA 24 EN" tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-title="News", AFRICA 24 EN
 https://livevideo.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
@@ -236,22 +234,12 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 
 #EXTINF:-1 tvg-id="DELUXEMUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Müzik", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusicDanceBy.de" tvg-name="DELUXE MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" group-title="Müzik", DELUXE MUSIC DANCE 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" group-title="Müzik", DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="DELUXE MUSIC Deutsch Pop.de" tvg-name="DELUXE MUSIC Deutsch Pop" tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png" group-title="Müzik", DELUXE MUSIC Deutsch Pop
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1 tvg-id="DELUXEMUSICWinterTime.de" tvg-name="DELUXE MUSIC Winter Time" tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png" group-title="Müzik", DELUXE MUSIC Winter Time
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4efad08a-8190-11f0-8cb4-fe31fa51a447/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:-1 tvg-id="TRACE URBAN" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="Müzik",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Müzik",BBLACK! AFRICA
-https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Müzik",BBLACK! CARIBBEAN
-https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Müzik",BBLACK! CLASSIK
-https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png" group-title="Müzik",VEVO POP
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png" group-title="Müzik",VEVO POP FAST
