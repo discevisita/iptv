@@ -114,8 +114,7 @@ https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Belgesel", Documentary+ 
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvg-id="NHK WORLD" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="Belgesel", NHK WORLD
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
 #EXTINF:-1 tvg-id="Terra Mater WILD ENG" tvg-logo="https://i.ibb.co/1Jsb4wgP/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel",Terra Mater WILD ENG 
 
 #EXTINF:-1tvg-id="Terra Mater WILD" tvg-logo="https://i.ibb.co/1Jsb4wgP/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", Terra Mater WILD 
