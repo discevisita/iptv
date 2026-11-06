@@ -119,15 +119,6 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1tvg-id="Terra Mater WILD" tvg-logo="https://i.ibb.co/1Jsb4wgP/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", Terra Mater WILD 
 
-
-#EXTINF:-1 tvg-id="FILM.SCREEN.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="Film Dizi", Film Screen HD
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="tabii.TV.tr" tvg-logo=" " group-title="Film Dizi", Tabii TV HD
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://i.ibb.co/8gcyRP1Y/Ekran-g-r-nt-s-2026-07-25-163750.jpg" group-title="Film Dizi", FX TV HD
-https://saran-live.ercdn.net/fx/index.m3u8
-
-
 #EXTINF:-1 tvg-id="TRT.World.HD.tr" tvg-name="TRT World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="News", TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="EURONEWS.tr" tvg-name="EURONEWS.tr" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="News", EURONEWS EN
@@ -135,7 +126,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.tr" tvg-name="BBCWorldNews.tr" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News", Sky News	
-https://xemzi.short.gy/1000018
+
 #EXTINF:-1 tvg-id="GB NEWS" tvg-name="GB NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="News", GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News", DW
@@ -161,27 +152,21 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-id="CNN INT" tvg-name="CNN INT" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="News", CNN INT
 https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
-#EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBS NEWS 
-https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNews" tvg-name="CBCNews" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBC News 
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News", NBC News NOW 
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+
 #EXTINF:-1 tvg-id="GLOBAL NEWS" tvg-name="GLOBAL NEWS" tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png" group-title="News", GLOBAL NEWS
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="News", ABC NEWS
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png" group-title="News", NOW NEWS USA
-https://nowushls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="NOW NEWS GLOBAL" tvg-name="NOW NEWS GLOBAL" tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png"group-title="News", NOW NEWS GLOBAL
-https://nowhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="ABC NEWS AUSTRALIA" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png" group-title="News", ABC NEWS AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 tvg-id="CHANNEL NEWS ASIA" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://i.ibb.co/7J24bwVD/cnaid.png" group-title="News", CHANNEL NEWS ASIA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="AFRICA 24 EN" tvg-name="AFRICA 24 EN" tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-title="News", AFRICA 24 EN
-https://livevideo.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Euronews Deutsch.de" tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"  group-title="Germany", Euronews Deutsch
