@@ -92,7 +92,7 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Gzt.tr" tvg-name="Gzt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" group-title="Belgesel",GZT
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ÇİFTÇİ TV" tvg-name="ÇİFTÇİ TV" tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/WvCvVrrz/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", DMAX
@@ -100,7 +100,7 @@ http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/KpCxxsXd/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", TLC
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://i.ibb.co/h17BsfgY/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", NAT GEO HD
-http://46.32.176.50/NationalGeographicHD/index.m3u8
+
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://i.ibb.co/Q3XCFCtW/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", NAT GEO WİLD HD
 
 #EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel", BBC Earth
@@ -108,18 +108,18 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-logo="https://i.ibb.co/VWnymrbY/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", CGTN Documentry
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="Discovering China.tr" tvg-logo="https://i.ibb.co/xt5Kx7SN/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", Discovering China 
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Belgesel", DocumentaryPlus
-https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Belgesel", Documentary+ 
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvg-id="NHK WORLD" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="Belgesel", NHK WORLD
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="Terra Mater WILD ENG" tvg-logo="https://i.ibb.co/1Jsb4wgP/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel",Terra Mater WILD ENG 
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+
 #EXTINF:-1tvg-id="Terra Mater WILD" tvg-logo="https://i.ibb.co/1Jsb4wgP/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Belgesel", Terra Mater WILD 
-https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="FILM.SCREEN.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="Film Dizi", Film Screen HD
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
@@ -154,7 +154,8 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="i24 NEWS EN" tvg-name="i24 NEWS EN" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="News",i24 NEWS EN
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="PRESS TV" tvg-name="PRESS TV" tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="News", PRESS TV
-
+#EXTINF:-1 tvg-id="tvg-id="NHK WORLD" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="News", NHK WORLD
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News", FOX NEWS 
