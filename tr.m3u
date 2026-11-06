@@ -71,7 +71,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="Ulusal",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Den" tvg-id="TV Den" tvg-logo="https://imgur.com/Uhg95Ze" group-title="Ulusal", TV Den
+#EXTINF:-1 tvg-name="TV Den" tvg-id="TV Den" tvg-logo="https://i.hizliresim.com/v2zo3jo7.png" group-title="Ulusal", TV Den
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="BRT 1 HD.tr" tvg-name="BRT 1 HD.tr" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Kıbrıs", BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
