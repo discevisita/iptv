@@ -15,8 +15,6 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="Ulusal", 360 
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Ulusal", BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -64,7 +62,8 @@ https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 #EXTINF:-1 tvg-id="MC.tr" tvg-name="MC" tvg-logo="https://i.ibb.co/W4WmBN67/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Ulusal", MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Ulusal", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.ibb.co/FLWw6XZS/Ekran-g-r-nt-s-2026-07-25-103937.jpg" group-title="Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="BIR TV" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Ulusal", BIR TV
