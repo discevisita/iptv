@@ -143,6 +143,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="i24 NEWS EN" tvg-name="i24 NEWS EN" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="News",i24 NEWS EN
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="PRESS TV" tvg-name="PRESS TV" tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="News", PRESS TV
+
 #EXTINF:-1 tvg-id="tvg-id="NHK WORLD" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="News", NHK WORLD
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
@@ -154,11 +155,11 @@ https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="CBCNews" tvg-name="CBCNews" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News", CBC News 
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News", NBC News NOW 
-
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 #EXTINF:-1 tvg-id="GLOBAL NEWS" tvg-name="GLOBAL NEWS" tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png" group-title="News", GLOBAL NEWS
 
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="News", ABC NEWS
-https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png" group-title="News", NOW NEWS USA
 
 #EXTINF:-1 tvg-id="NOW NEWS GLOBAL" tvg-name="NOW NEWS GLOBAL" tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png"group-title="News", NOW NEWS GLOBAL
@@ -217,9 +218,9 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1 tvg-id="DELUXEMUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Müzik", DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DELUXE MUSIC Deutsch Pop.de" tvg-name="DELUXE MUSIC Deutsch Pop" tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png" group-title="Müzik", DELUXE MUSIC Deutsch Pop
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+
 #EXTINF:-1 tvg-id="DELUXEMUSICWinterTime.de" tvg-name="DELUXE MUSIC Winter Time" tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png" group-title="Müzik", DELUXE MUSIC Winter Time
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4efad08a-8190-11f0-8cb4-fe31fa51a447/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+
 #EXTINF:-1 tvg-id="TRACE URBAN" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="Müzik",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png" group-title="Müzik",VEVO POP
